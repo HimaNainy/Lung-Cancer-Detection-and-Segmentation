@@ -1,0 +1,6 @@
+*.keras
+*.h5
+*.pth
+lung_env/
+__pycache__/
+*.pyc
